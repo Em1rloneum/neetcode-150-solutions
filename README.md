@@ -1,1 +1,1 @@
-My solutions for NeetCode 150 problems
+My solutions to NeetCode 150 problems

@@ -1,4 +1,4 @@
-# Solution for problem "Contains Duplicate"
+# Solution to problem "Contains Duplicate"
 # https://leetcode.com/problems/contains-duplicate/
 
 
